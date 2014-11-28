@@ -1,0 +1,309 @@
+﻿.style6
+{
+    font-family: "Courier New" , Courier, monospace;
+    font-size: 34pt;
+    color: #0999CB;
+    height: 46px;
+}
+.style5
+{
+    font-family: Arial, Helvetica, sans-serif;
+}
+body
+{
+    overflow: hidden;
+    position: relative;
+}
+body
+{
+    margin: 0;
+    padding: 0;
+}
+.TextTextBox
+{
+    text-align: left;
+    padding-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #808080;
+    padding-left: 20px;
+}
+.Sidebar1
+{
+    position: absolute;
+    z-index: 5;
+    top: 0px;
+    left: -355px;
+    width: 355px;
+}
+.Sidebar2
+{
+    position: absolute;
+    z-index: 6;
+    top: 0px;
+    left: -355px;
+    width: 355px;
+}
+.Sidebar3
+{
+    position: absolute;
+    z-index: 7;
+    top: 0px;
+    left: -355px;
+    width: 355px;
+}
+.style01
+{
+    width: 1820px;
+    height: 100px;
+    position: absolute;
+    z-index: 10;
+    left: 100px;
+    top: 50px;
+}
+.BigText
+{
+    text-align: left;
+    font-family: "Courier New" , Courier, monospace;
+    font-size: 50px;
+    color: #C0C0C0;
+    padding-top: 15px;
+    position: absolute;
+    z-index: 15;
+    top: 280px;
+    left: 370px;
+    padding-left: 10px;
+}
+.ButtonExit
+{
+    position: absolute;
+    z-index: 55;
+    top: 20px;
+    right: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+    color: #C0C0C0;
+}
+.BackgroundLines
+{
+    position: absolute;
+    z-index: -10;
+    width: 1810px;
+    height: 700px;
+    left: 100px;
+    top: 160px;
+}
+.BGLine
+{
+    height: 70px;
+    border-top-style: solid;
+    border-top-width: 1px;
+    border-color: #C0C0C0;
+}
+.style7
+{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #0999CB;
+    font-weight: bold;
+    text-align: left;
+    height: 50px;
+}
+.Button15_Style
+{
+    position: absolute;
+    z-index: 50;
+    width: 1820px;
+    height: 1000px;
+    background-color: transparent;
+}
+.style8
+{
+    width: 100%;
+}
+.style9
+{
+    font-size: 12pt;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #333333;
+}
+.style10
+{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #0999CB;
+}
+.style11
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10pt;
+}
+.style13
+{
+    font-size: 35pt;
+    font-family: "Courier New" , Courier, monospace;
+    color: #CCCCCC;
+}
+.style14
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
+.ui-state-highlight
+{
+    height: 2.8em;
+    line-height: 1.2em;
+    margin-bottom: 20px;
+}
+.style15
+{
+    width: 130px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.style16
+{
+    width: 50px;
+}
+.style18
+{
+    width: 62px;
+}
+.style19
+{
+    width: 53px;
+}
+.style20
+{
+    text-align: left;
+}
+.style22
+{
+    height: 223px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #999999;
+}
+.style23
+{
+    width: 56px;
+}
+.style24
+{
+    width: 48px;
+}
+.style26
+{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: right;
+    color: #0999CB;
+}
+.style27
+{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 596px;
+    color: #666666;
+}
+.style28
+{
+    text-align: left;
+    width: 257px;
+}
+.style29
+{
+    text-align: left;
+    width: 298px;
+}
+.style30
+{
+    text-align: left;
+    width: 292px;
+}
+.style31
+{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #0999CB;
+    font-weight: bold;
+    text-align: left;
+    height: 50px;
+    width: 101px;
+}
+.style32
+{
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #666666;
+}
+.Types_TD
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    font-weight: bold;
+    color: #3EACD8;
+    text-align: left;
+    padding-left: 20px;
+}
+.style33
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    font-weight: bold;
+    color: #333333;
+    text-align: left;
+    padding-left: 20px;
+}
+.style34
+{
+    color: #666666;
+}
+.style35
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30pt;
+    color: #999999;
+}
+.style37
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    color: #666666;
+}
+.style38
+{
+    font-size: small;
+    color: #FFFFFF;
+}
+.style39
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+}
+.SortablePanels
+{
+    min-height: 100px;
+}
+.SortablePanels2
+{
+    min-height: 5px;
+}
+.SortablePanels3
+{
+    min-height: 5px;
+}
+.SortablePanels4
+{
+    min-height: 5px;
+}
+.FocusModeButtons
+{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #0999CB;
+    font-weight: bold;
+    text-align: left;
+    height: 30px;
+    width: 1820px;
+}
+.FocusModeTable
+{
+    width: 1820px;
+    height: 1000px;
+    position: absolute;
+    z-index: 10;
+    left: 100px;
+    top: 50px;
+}
